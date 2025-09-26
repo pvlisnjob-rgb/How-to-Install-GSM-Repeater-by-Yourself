@@ -29,5 +29,5 @@ IMPORTANT: Check your local regulations!
 Repeater usage may require licensing in your country.
 
 For professional-grade GSM repeaters and expert advice, 
-visit https://myamplifiers.com - your trusted source for 
+visit [https://www.myamplifiers.com/gsm-repeater/](https://www.myamplifiers.com/gsm-repeater/) - your trusted source for 
 mobile signal amplification solutions.
